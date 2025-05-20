@@ -38,7 +38,3 @@
 </picture>
 
 ---
-<div>
-<img src = 'https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJ2MDZxbjZrbnhnZWQxcmQ3ZXk5MGR6aW40MTVibGY4Ymd6enY5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bugwhhJE9WhxkYw/giphy.gif'>
-
-</div>
